@@ -1,2 +1,2 @@
 # SpringWeather
-呼叫天氣相關api
+呼叫其他OPEN API相關
